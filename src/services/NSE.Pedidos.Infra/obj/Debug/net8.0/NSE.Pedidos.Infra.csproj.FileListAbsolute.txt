@@ -1,0 +1,38 @@
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Infra.deps.json
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Infra.runtimeconfig.json
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Infra.dll
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Infra.pdb
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Core.dll
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Domain.dll
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Core.pdb
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Domain.pdb
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.csproj.AssemblyReference.cache
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.AssemblyInfoInputs.cache
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.AssemblyInfo.cs
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.csproj.CopyComplete
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.dll
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\refint\NSE.Pedidos.Infra.dll
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.pdb
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.genruntimeconfig.cache
+C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\ref\NSE.Pedidos.Infra.dll
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Infra.deps.json
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Infra.runtimeconfig.json
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Infra.dll
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Infra.pdb
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Core.dll
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Domain.dll
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Core.pdb
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\net8.0\NSE.Pedidos.Domain.pdb
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.csproj.AssemblyReference.cache
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.AssemblyInfoInputs.cache
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.AssemblyInfo.cs
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.csproj.CopyComplete
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.dll
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\refint\NSE.Pedidos.Infra.dll
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.pdb
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\NSE.Pedidos.Infra.genruntimeconfig.cache
+C:\Users\Cristiano\Downloads\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\net8.0\ref\NSE.Pedidos.Infra.dll
