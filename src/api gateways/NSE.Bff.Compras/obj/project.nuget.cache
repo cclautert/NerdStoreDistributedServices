@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nmB3SdzDG5OUV5vKNmXyZ90Wd4M9jusAgeK/sSKx/SicbLBo+cTmyNBiHzjRzKj8bhN0YtNkM0nz6pE7kMHqiA==",
+  "dgSpecHash": "SWvWcR1FzqrKk4SHrSH9KKyVFE0z2mpCwHUjcK3cdeEhw6v2Rv6umu7n2OIXF70v4qqLBVgdhJvv6bY0+c89Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\api gateways\\NSE.Bff.Compras\\NSE.Bff.Compras.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\api gateways\\NSE.Bff.Compras\\NSE.Bff.Compras.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\easynetq\\7.8.0\\easynetq.7.8.0.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",

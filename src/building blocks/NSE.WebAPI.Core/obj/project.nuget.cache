@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4OM5PFnGA/JdUzt9fvoO2ALr1NTehZopYNqsmgYM8IdH8svOXS9F3uS3B3O2ncT+LAJmBuTr7TmJCkucJyKTtg==",
+  "dgSpecHash": "v3o5r22CqXkOf0m4VBnSdh0ZK0RwUFzJfev4Qob5hQX11i1Abc37u6dWck5aPDA4nHmweESXV2Iz1BIxKg6gJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

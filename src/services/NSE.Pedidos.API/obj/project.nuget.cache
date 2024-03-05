@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UyHND10i585taCmSpN2go30XqZ0zonUXAQwyXEMjj3tiDG5qMoTLGE7+GF4c+g7TYBg7dkBK9PtOnTB+OFQMhw==",
+  "dgSpecHash": "OxtpTc3lkc2IG65vcboNAvvf4w9XvxbWFgR62BNa/hZ0xCXklHp0XFotKRKBCTMYTAj/BFACb5/Slu53Q+45/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\services\\NSE.Pedidos.API\\NSE.Pedidos.API.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\services\\NSE.Pedidos.API\\NSE.Pedidos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

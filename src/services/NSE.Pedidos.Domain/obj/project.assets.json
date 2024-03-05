@@ -306,11 +306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\services\\NSE.Pedidos.Domain\\NSE.Pedidos.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\services\\NSE.Pedidos.Domain\\NSE.Pedidos.Domain.csproj",
       "projectName": "NSE.Pedidos.Domain",
-      "projectPath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\services\\NSE.Pedidos.Domain\\NSE.Pedidos.Domain.csproj",
+      "projectPath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\services\\NSE.Pedidos.Domain\\NSE.Pedidos.Domain.csproj",
       "packagesPath": "C:\\Users\\Cristiano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\services\\NSE.Pedidos.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\services\\NSE.Pedidos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -330,8 +330,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\NSE.Core.csproj": {
-              "projectPath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\NSE.Core.csproj"
+            "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\building blocks\\NSE.Core\\NSE.Core.csproj": {
+              "projectPath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\building blocks\\NSE.Core\\NSE.Core.csproj"
             }
           }
         }

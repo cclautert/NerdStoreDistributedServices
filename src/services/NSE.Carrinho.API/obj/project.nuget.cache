@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k5PwJm644VDe9B4CkwLhcwHG2RCy1+O8sLWy69JhCF6q4TLhJi4eSSqD0pgwm4BIepljCEsXlLpSANLCwHp3yw==",
+  "dgSpecHash": "n9Qy+x/n2oLXgMsl6XXG0Nfz35RMQX5zj+pent/Jtd6b54UJFGE2qtfq/V+/trZX545tSKoviJQodt4Ra3uhWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

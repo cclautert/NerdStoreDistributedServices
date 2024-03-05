@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IN1nFR/18Mq5jMYBZLq1totvppWAhhERuJ3Z7ImIE+GtE6ZzVKI4cnpcaf4O+8BfJtMeSo+UUcn2y2ecg7Vy0g==",
+  "dgSpecHash": "GBALuUMiBu74gzyFX+Do0dCF0g8GYXsVJ5LgIeSsY9msg4BLlnv75mG2GOHYYJzZPMLYjhDyYFpl4PFgkRMnqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\services\\NSE.Pedidos.Infra\\NSE.Pedidos.Infra.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\services\\NSE.Pedidos.Infra\\NSE.Pedidos.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

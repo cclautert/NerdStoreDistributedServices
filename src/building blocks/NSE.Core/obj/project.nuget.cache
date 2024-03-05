@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GWtp5alAx8DYgnGYampO0h2rBMkl2azyW7Hqgz2ydSW2G4jEP1/ig14QiPNy1tM1opUa1C/KsBH37pErc8ZeFw==",
+  "dgSpecHash": "yP1n76WXFaVxu4D7GFbADHesXJOakqYB0OwKkrhbGHBaJJNEZg4RuTLywq/IrsJm6CfXrb7wgvtj2/egXt2KMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

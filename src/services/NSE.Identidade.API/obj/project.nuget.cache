@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0hP1H6MTIixJjWlh4VxgrszvZ9m2cSrxulJcIJt7YipwUZhLHfEXNXEAcaNAKd0px4NTCtqOErs9pk90f7WLqg==",
+  "dgSpecHash": "/s6Nyk3Iw4GsZnJUE+xCNA8MsJYHo0872i+/RxR67vy0oqa9qc1JZQ4DCKql/y1nUtNRPfCkYnUit3Zemfpqtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

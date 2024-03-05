@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vpdXJx9gOWCB0VKmZ1rK3rZUQpUnW0pxB0jkkv46upEsKyY/7DQAjzTioQDucI06KEXepTJA0o2JHr6wvW7jjA==",
+  "dgSpecHash": "XNooKBkikJ+LyuNSMwziEuJr/lCG+VI4mWHLmuU74n9NB/C18DjaCtro8jeBk2em+4MHxdemB3WOEJvO94fh0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Downloads\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\grpc.core.api\\2.61.0\\grpc.core.api.2.61.0.nupkg.sha512",
