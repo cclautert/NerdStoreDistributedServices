@@ -1,6 +1,6 @@
 # DevStore - A distributed services e-commerce reference application built with ASP.NET 6
 
-###### This project was inspired by [EShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers), however the real motivation was to build it by "our way".
+###### This project was inspired by [EShopOnContainers](https://github.com/cclautert/eShop), however the real motivation was to build it by "our way".
 
 ###### The EShopOnContainers is an awesome project, however the code has some "bad smells". We found it difficult to start learning/using EShopOnContainers compared to DevStore. We like to think of the DevStore as a simplified (but no less complex) version and written with more care in code and small details. We also focused only on the Web architecture with ASP.NET.
 
