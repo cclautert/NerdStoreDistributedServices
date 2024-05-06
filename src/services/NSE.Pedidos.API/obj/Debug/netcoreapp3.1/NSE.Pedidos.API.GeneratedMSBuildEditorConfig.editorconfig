@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = NSE.Pedidos.API
-build_property.ProjectDir = C:\Users\Cristiano\Downloads\11 - Deploy via Docker\src\services\NSE.Pedidos.API\
+build_property.ProjectDir = C:\Users\Cristiano\source\repos\cclautert\NerdStoreDistributedServices\src\services\NSE.Pedidos.API\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

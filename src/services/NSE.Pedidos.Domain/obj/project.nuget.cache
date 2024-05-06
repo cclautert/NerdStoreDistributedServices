@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "MEuYSDpDCK73H2m0X3/BmdapDqZ9lhA1o2YRbA0kgw6Lmv5tekpI20cQu/iM95LtF8JVE2cej0SrobqMfuvsBg==",
+  "dgSpecHash": "6wWtEHmRoJvQO/B0R1wc5Bfr2+qdp8xrJwqJA8cYoA7Z9qGsT5gLhogSyfvFS1rErWO9uw5s9CEMMnFID5TChA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\NerdStoreDistributedServices\\src\\services\\NSE.Pedidos.Domain\\NSE.Pedidos.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Cristiano\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
-    "C:\\Users\\Cristiano\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
-    "C:\\Users\\Cristiano\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\Cristiano\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\Cristiano\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\Cristiano\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "C:\\Users\\Cristiano\\.nuget\\packages\\netdevpack\\6.1.0\\netdevpack.6.1.0.nupkg.sha512"
+    "C:\\Users\\Cristiano\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Cristiano\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\Cristiano\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Cristiano\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Cristiano\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\Cristiano\\.nuget\\packages\\netdevpack\\1.1.0\\netdevpack.1.1.0.nupkg.sha512",
+    "C:\\Users\\Cristiano\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
   ],
   "logs": []
 }
